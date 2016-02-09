@@ -5,5 +5,7 @@ text-align:center;
 div { margin:20px;}
 #welcome { margin-top: 150px;
 margin-bottom: 150px;
-background-color: silver;}
+background-color: silver;
+padding-top:60;
+padding-bottom: 60;}
 #b {margin-top: 150px;}
