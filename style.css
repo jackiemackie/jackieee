@@ -3,10 +3,12 @@ text-align:center;
 }
 
 div { margin:20px;}
-#welcome {margin-bottom: 100px;
+#welcome {
 padding-top:150px;
 padding-bottom: 150px;
 background-color: silver;
 }
 #b {margin-top: 100px;}
-#options {background-color: white;}
+#options { padding-top:100px;
+  padding-bottom: 100px;
+  background-color: white;}
