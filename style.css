@@ -3,13 +3,9 @@ text-align:center;
 }
 
 div { margin:20px;}
-#welcome { margin-top: 100px;
-margin-bottom: 100px;
-margin-left: 50px;
-margin-right: 50px;
-border-top:60px;
-border-bottom: 60px;
-border-color: silver;
+#welcome {margin-bottom: 100px;
+padding-top:60px;
+padding-bottom: 60px;
 background-color: silver;
 }
-#b {margin-top: 150px;}
+#b {margin-top: 100px;}
